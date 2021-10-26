@@ -32,5 +32,6 @@ melakukan push README dengan git desktop
 ![push](https://user-images.githubusercontent.com/92669810/138792111-0cd59a6c-567b-4230-a5ee-e3b62f22b436.png)
 
 cek repo apakah sudah ter push
+![cek](https://user-images.githubusercontent.com/92669810/138792350-025d2448-d690-4870-84f7-06c590e9286a.png)
 
 finish
