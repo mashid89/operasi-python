@@ -2,7 +2,7 @@
 
 ## tugas
 
-![img](screenshot/tugas.png)
+![img](screenshot/Tugas.png)
 
 ## flowchart 
 
