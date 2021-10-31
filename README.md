@@ -9,7 +9,7 @@
 untuk menentukan luas dan keliling lingkaran dapat
 menggunakan langkah langkah sebagai berikut
 
-![img](screenshot/flowchart.png)
+![img](screenshot/FLOWCHART.png)
 
 # menghitung luas dan keliling lingkaran 
 
