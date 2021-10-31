@@ -25,7 +25,7 @@ menggunakan langkah langkah sebagai berikut
     print ("Luas Lingkaran \t= ",format(luas,'.2f'))
     print ("Keliling Lingkaran \t= ",format(kel,'.2f'))
 
-ssss## rumus menghitung
+## rumus menghitung
 
 berikut adalah rumus untuk menghitung luas dan keliling linngkaran
 
